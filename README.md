@@ -14,3 +14,12 @@
             })
         }
     }
+
+## Preview 1
+<img src="https://raw.githubusercontent.com/sunilkr123/Bounce-Animation/master/Attachment/gif_xcode.gif" width="300" height="600">
+
+
+## Preview 2
+
+
+<img src="https://raw.githubusercontent.com/sunilkr123/Bounce-Animation/master/Attachment/bounce.gif" width="300" height="600">
